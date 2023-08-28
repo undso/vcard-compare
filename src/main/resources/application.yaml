@@ -1,0 +1,3 @@
+vcard:
+  input: src/test/resources/vcards/all.vcf
+  output: src/test/resources/vcards/bday_2.vcf
